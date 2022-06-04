@@ -6,7 +6,10 @@
 
 I also enjoy creating beautiful images and you can check me out on www.oyinbra.com
 
-Skills: JS / HTML / CSS
+## Skills and Experience:
+- 👨🏾‍💻 JS
+- 🌐 HTML
+- 📇 CSS
 
 - 🔭 I’m currently working on this page. 
 
