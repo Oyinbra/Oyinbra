@@ -1,10 +1,5 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is oyinbra
-#### I am a Front End Web Developer and i love learning new Programming Languages
-![I am a Front End Web Developer and i love learning new Programming Languages]
-
-I also enjoy creating beautiful images and you can check me out on www.oyinbra.com
+I am a Front End Web Developer and i love learning new Programming Languages. I also enjoy creating beautiful images and you can check me out on www.oyinbra.com
 
 ## Skills and Experience:
 - 👨🏾‍💻 JS
