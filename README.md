@@ -6,6 +6,7 @@ I also enjoy creating beautiful images and you can check me out on www.oyinbra.c
 - 👨🏾‍💻 JS
 - 🌐 HTML
 - 📇 CSS
+- 💫 SASS
 
 - 🔭 I’m currently working on this page. 
 
