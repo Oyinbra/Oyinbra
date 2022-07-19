@@ -1,4 +1,4 @@
-## Hi there 👋, my name is oyinbra 
+## Hi there 👋, my name is Oyinbra 
 ## About Me 🧠
 I am a Front End Web Developer and i love learning new Programming Languages.
 I also enjoy creating beautiful images and you can check me out on www.o.com
