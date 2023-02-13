@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Oyinbra](https://github.com/Oyinbra)
 
-- 💬 Ask me about **lua and creating your own work station on nvim**
+- 💬 Ask me about ** Linux, lua, and creating your own work station on nvim**
 
 - ⚡ Fun fact **I love football, watching movies ripping my Linux apart**
 
