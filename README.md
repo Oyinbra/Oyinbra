@@ -17,7 +17,7 @@ An Open Source Dev with a passion for developing efficient and effective softwar
  
 </div>
 
-## 👤 About Me
+## 👤 Personal note
 
 - 🌱 I’m currently learning **lua**
 - 💬 Ask me about **Linux**, **lua**, and creating your own work station on **nvim**
