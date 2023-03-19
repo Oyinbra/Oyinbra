@@ -14,7 +14,8 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 <div align="center">
  
   [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/oyinbra)
- 
+  [![Email](https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:github-oyinbra@outlook.com)
+
 </div>
 
 ## 👤 Personal note
