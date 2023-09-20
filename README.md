@@ -20,9 +20,11 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 
 ## 👤 Personal note
 
-- 🌱 I’m currently learning **lua**
-- 💬 Ask me about **Linux**, **lua**, and creating your own work station on **nvim**
-- ⚡ Fun fact: I love football, watching movies, and ripping my Linux apart
+- 🌱 Currently cultivating my Python skills 🐍
+- 💬 Feel free to chat with me about Linux, Lua scripting, and crafting the ultimate Neovim workspace 💻
+- ⚡ Fun fact: I'm an avid football fan ⚽, a movie buff 🍿, and I enjoy diving deep into the heart of Linux systems 🐧
+- 🔧 Passionate about open source development and created a Neovim application for efficient coding in the Linux/MacOS Terminal.
+- 📝 Working diligently on my blog, covering Linux, software engineering, finance, economics, and the exciting world of cryptocurrencies 💡
 
 ## 🤹🏾 Skills
 
