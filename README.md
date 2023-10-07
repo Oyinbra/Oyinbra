@@ -12,15 +12,6 @@
 
 An Open Source Dev with a passion for developing efficient and effective software solutions. I bring my strong analytical and problem-solving skills to the table. I am committed to staying up-to-date with the latest industry trends and technologies, and I am eager to apply my skills to new and challenging projects.
 
-## 📊 Stats
-
-<div style="overflow: hidden;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oyinbra&show_icons=true&locale=en" alt="oyinbra's GitHub Stats" style="float: left;">
-</div>
-<div style="overflow: hidden;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oyinbra&" alt="oyinbra's GitHub Streak" style="float: left;">
-</div>
-
 ## 👤 Personal note
 
 - 🌱 Currently cultivating my Python skills 🐍
@@ -30,6 +21,8 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 - 📝 Working diligently on my blog, covering Linux, software engineering, finance, economics, and the exciting world of cryptocurrencies 💡
 
 ## 🤹🏾 Skills
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -44,15 +37,17 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 👨🏾‍💻 GitHub Language Stats Badge
+</div>
 
-<p align="right">
+## 📊 Stats
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyinbra&theme=github)
-</p>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyinbra&theme=dracula&card_width=700)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyinbra&theme=dracula&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
-## 💻 GitHub Profile Trophy
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=oyinbra" alt="GitHub Profile Trophy" />
-</p>
+</div>
