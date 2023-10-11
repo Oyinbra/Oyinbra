@@ -1,11 +1,19 @@
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-green.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://oyinbra.netlify.app)
-[![My Blog](https://img.shields.io/badge/My%20Blog-blue.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://blog-oyn.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/oyinbra)
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/oyinbra)
-[![Email](https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:github-oyinbra@outlook.com)
-
+  <a href="https://oyinbra.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-green.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="Website">
+  </a>
+  <a href="https://blog-oyn.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Blog-blue.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="My Blog">
+  </a>
+  <a href="https://linkedin.com/in/oyinbra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/oyinbra" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:github-oyinbra@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+  </a>
 </div>
 
 # Hi 👋, I'm Oyinbra
@@ -41,6 +49,7 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 </div>
 
 ## 📊 Stats
+
 <div align="center">
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oyinbra&theme=dracula&card_width=700)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -49,6 +58,5 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyinbra&theme=dracula&hide_border=true&card_width=700)](https://git.io/streak-stats)
-
 
 </div>
