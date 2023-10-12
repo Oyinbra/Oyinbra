@@ -6,8 +6,7 @@
     <img src="https://img.shields.io/badge/My%20Blog-blue.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="My Blog">
   </a>
   <a href="https://linkedin.com/in/oyinbra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt "LinkedIn">
   <a href="https://t.me/oyinbra" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
@@ -18,17 +17,15 @@
 
 # Hi 👋, I'm Oyinbra
 
-An Open Source Dev with a passion for developing efficient and effective software solutions. I bring my strong analytical and problem-solving skills to the table. I am committed to staying up-to-date with the latest industry trends and technologies, and I am eager to apply my skills to new and challenging projects.
+I'm a passionate Open Source Developer with a knack for crafting efficient and effective software solutions. My journey through the world of code has honed my strong analytical and problem-solving skills. I'm committed to staying at the forefront of industry trends and technologies, ready to apply my skills to tackle new and exciting challenges.
 
 ## 👤 Personal note
 
-- 🌱 Currently cultivating my Python skills 🐍
-- 💬 Feel free to chat with me about Linux, Lua scripting, and crafting the ultimate Neovim workspace 💻
+- 🌱 Currently, I'm nurturing my Python skills 🐍, constantly seeking new horizons and ways to enhance my craft.
+- 🎶 Music is the rhythm of my life. Whether it's exploring new genres or jamming on my own, I find solace and motivation in the melodies that surround us.
 - ⚡ Fun fact: I'm an avid football fan ⚽, a movie buff 🍿, and I enjoy diving deep into the heart of Linux systems 🐧
-- 🔧 Passionate about open source development and created a Neovim application for efficient coding in the Linux/MacOS Terminal.
-- 📝 Working diligently on my blog, covering Linux, software engineering, finance, economics, and the exciting world of cryptocurrencies 💡
 
-## 🤹🏾 Skills
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -41,6 +38,7 @@ An Open Source Dev with a passion for developing efficient and effective softwar
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%2343853D)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2333672f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
