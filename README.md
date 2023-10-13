@@ -55,6 +55,7 @@ I'm a passionate Open Source Developer with a knack for crafting efficient and e
 [![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oyinbra&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oyinbra&theme=dracula&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oyinbra&theme=dracula&hide_border=true&card_width=700)](https://git.io/streak-stats)
+
 
 </div>
