@@ -23,7 +23,7 @@ I'm a passionate Open Source Developer with a knack for crafting efficient and e
 
 - 🌱 Currently, I'm nurturing my Python skills 🐍, constantly seeking new horizons and ways to enhance my craft.
 - 🎶 Music is the rhythm of my life. Whether it's exploring new genres or jamming on my own, I find solace and motivation in the melodies that surround us.
-- ⚡ Fun fact: I'm an avid football fan ⚽, a movie buff 🍿, and I enjoy diving deep into the heart of Linux systems 🐧
+- ⚡ Fun fact: I love superhero movies 🍿, and I enjoy delving deep into the heart of Linux systems 🐧.
 
 ## 💻 Tech Stack
 
