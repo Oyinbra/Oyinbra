@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://oyinbra.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-green.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-%23323330.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="Website">
   </a>
   <a href="https://blog-oyn.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Blog-blue.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="My Blog">
+    <img src="https://img.shields.io/badge/My%20Blog-%2333672f.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" alt="My Blog">
   </a>
   <a href="https://linkedin.com/in/oyinbra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt "LinkedIn">
@@ -11,17 +11,18 @@
     <img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:github-oyinbra@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red.svg?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-%23323330.svg?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
   </a>
 </div>
 
-# Hi 👋, I'm Oyinbra
+# Hi 👋, I'm Oyinbra 🚀
 
-I'm a passionate Open Source Developer with a knack for crafting efficient and effective software solutions. My journey through the world of code has honed my strong analytical and problem-solving skills. I'm committed to staying at the forefront of industry trends and technologies, ready to apply my skills to tackle new and exciting challenges.
+I'm a passionate Open Source Developer with a knack for crafting efficient and effective software solutions 💻. My journey through the world of code has honed my strong analytical and problem-solving skills 🔍. I'm committed to staying at the forefront of industry trends and technologies 📈, ready to apply my skills to tackle new and exciting challenges 🌟.
 
 ## 👤 Personal note
 
 - 🌱 Currently, I'm nurturing my Python skills 🐍, constantly seeking new horizons and ways to enhance my craft.
+- 💻 Exploring the fascinating world of Web 3 and cryptocurrency, where decentralized technologies and digital currencies are reshaping the future of finance and technology. 🌐🪙
 - 🎶 Music is the rhythm of my life. Whether it's exploring new genres or jamming on my own, I find solace and motivation in the melodies that surround us.
 - ⚡ Fun fact: I love superhero movies 🍿, and I enjoy delving deep into the heart of Linux systems 🐧.
 
